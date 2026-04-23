@@ -1,5 +1,7 @@
 Arquivo de teste do TXT para controle do Git.
 
-Linha 3 do arquivo.
-Linha 4 do arquivo.
-Linha 5 do arquivo.
+Linha 003 do arquivo.
+Linha 4 do arquivo. #incluido comentário de linha.
+
+Linha 5 foi excluida e linha 6 inserida.
+Linha 7 inserida.
