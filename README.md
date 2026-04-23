@@ -11,7 +11,7 @@ git log
 # Adicionar arquivo para ser enviado para Git:
 git add .
 
-# Comitar arquivo no repositório. "Texto informativo".
+# Comitar arquivo no repositório. "Texto informativo entre aspas para facil localização no portal Git".
 git commit -m ""
 
 # Subir e salvar arquivo no Git.
