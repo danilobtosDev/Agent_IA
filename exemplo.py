@@ -1,1 +1,4 @@
-5 + 2
+print("Helo Word")
+idade = 25
+print(idade)
+print("Testando Python")
